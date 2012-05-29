@@ -1,0 +1,16 @@
+Specimens
+india-singapore-tourism-2009-10-26-6-41-21.jpg
+DSCN0490.JPG
+pomegranate%2520-%25201.jpg
+8b3c9a07d0444ab89d663a0b36162ca7.jpg
+apple-tree-ireland-image-picture-ph.jpg
+1744532-Rasa Sentosa Resort-Singapore.jpg
+13756_205447724689_86862329689_3125162_6944479_n.jpg
+03.jpg
+Resort+World,+Sentosa+Singapore+-+The+Opening+of+Singapore's+First+Casino.jpg
+HotelMichaelSentosa
+
+//Todo, auto put space on CamelCased strings
+trim characters, "'"
+First letter upper case
+Test on chinese chars
